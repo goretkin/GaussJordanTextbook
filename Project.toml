@@ -1,0 +1,4 @@
+name = "GaussJordanTextbook"
+uuid = "47cfe118-9797-4730-b17f-0cd05e967c40"
+authors = ["Gustavo Goretkin <gustavo.goretkin@gmail.com>"]
+version = "0.1.0"
